@@ -44,7 +44,7 @@
 //module
 //================
 
-// import {nama, numbers, john} from "./istol.js";
+// import {nama, numbers, john} from "./export.js";
 // console.log(nama);
 // console.log(numbers);
 // console.log(john);
